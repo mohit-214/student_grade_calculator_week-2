@@ -26,7 +26,7 @@ The Student Grade Calculator is a Python application that allows users to enter 
 
 ## Project Structure
 
-week2-Student grade/
+Student grade/
 
 ├── Student_grade_calculator.py
 
