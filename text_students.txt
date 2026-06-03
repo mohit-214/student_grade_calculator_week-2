@@ -1,0 +1,10 @@
+text_students.txt
+2
+Mohit
+85
+75
+96
+Shaziya
+65
+85
+98
